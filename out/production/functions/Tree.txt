@@ -1,0 +1,4 @@
+The Recursion and Iteration both repeatedly execute the set of 
+instructions. Recursion is when a statement in a function calls
+ itself repeatedly. The iteration is when a loop repeatedly 
+ executes until the controlling condition becomes false.
