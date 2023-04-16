@@ -1,6 +1,8 @@
 package Leetcode;
 
 
+import java.util.ArrayList;
+
 public class Main {
 
 
@@ -10,5 +12,22 @@ public class Main {
 
         Palindrome palindrome = new Palindrome();
         System.out.println(palindrome.isPalindrome(33));
+
+        ValidBrackets validBrackets = new ValidBrackets();
+        System.out.println("Brackets questions: "+ validBrackets.isValid("[]{}({}})"));
+
+
+        Prefixes prefixes = new Prefixes();
+        String[] strings= new String[4];
+        strings[0] ="Aayush";
+        strings[1] = "Akash";
+        strings[2] = "Arnav";
+        strings[3] = "Ajeet";
+        System.out.println(prefixes.longestCommonPrefix(strings));
+
+
+        ClimbingStairs climbingStairs = new ClimbingStairs();
+        System.out.println("Number of Steps: " + climbingStairs.climbStairs(22));
+
     }
 }
