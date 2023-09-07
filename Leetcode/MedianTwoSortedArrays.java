@@ -10,7 +10,7 @@ public class MedianTwoSortedArrays {
     }
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        List<Integer>  list1 = new ArrayList<>();
+        List<int[]> list1 = new ArrayList<>();
         list1.add(nums1);
         double x = 0;
         return x;

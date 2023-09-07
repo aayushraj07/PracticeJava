@@ -1,0 +1,10 @@
+Array are saved continous memory form 
+They are of fixed size.
+
+
+ArrayList are non continous memory.
+They are of variable size.
+
+Array can store primitive (int, float) and Objects
+
+ArrayList can store only Objects.
