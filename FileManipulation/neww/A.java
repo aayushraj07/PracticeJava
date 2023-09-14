@@ -1,4 +1,4 @@
-package newPackage.neww;
+package FileManipulation.neww;
 
 public class A {
 

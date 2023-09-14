@@ -1,6 +1,6 @@
-package newPackage;
+package FileManipulation;
 
-import newPackage.neww.A;
+import FileManipulation.neww.A;
 
 public class Demo {
 

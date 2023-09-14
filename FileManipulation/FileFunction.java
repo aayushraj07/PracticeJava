@@ -1,4 +1,4 @@
-package newPackage;
+package FileManipulation;
 
 import java.io.File;
 import java.io.IOException;
