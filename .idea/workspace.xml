@@ -5,18 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="500b8162-0a13-4a12-869f-fbb40ec176c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix/ht.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPackage/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPackage/FileFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPackage/FileFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPackage/FileMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPackage/FileMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPackage/neww/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/neww/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newPackage/neww/createdFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/neww/createdFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/Leetcode/fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/Leetcode/fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/FileManipulation/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/FileManipulation/FileFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/FileManipulation/FileFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/FileManipulation/FileMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/FileManipulation/FileMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/FileMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/FileManipulation/neww/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/neww/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/FileManipulation/neww/createdFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FileManipulation/neww/createdFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/CostOfRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/CostOfRope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/MedianTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/MedianTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/Prefixes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Prefixes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/TwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/TwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/ValidBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/ValidBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/Leetcode/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/ArrayList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/ArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/BinaryTreeYT$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreeYT$BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/BinaryTreeYT$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreeYT$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/BinaryTreeYT.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreeYT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/BinaryTreeYT.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreeYT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/BinaryTreesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTreesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Collections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Community.class" beforeDir="false" afterPath="$PROJECT_DIR$/Community.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Community.java" beforeDir="false" afterPath="$PROJECT_DIR$/Community.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Dontrepeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/Dontrepeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Dontrepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dontrepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Hashing.class" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Hashing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/LL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/LL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/LL.class" beforeDir="false" afterPath="$PROJECT_DIR$/LL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/LinkL.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/LinkedL.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/LinkedList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/RecurssionPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecurssionPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/RemoveDuplicateInArrayExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveDuplicateInArrayExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/ReverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Sorting.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/StrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/StrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/Tree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tree.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/WorkShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WorkShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/MixCodes/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/exam'/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam'/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/exam'/tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam'/tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/pepCoding/PatternQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/PatternQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/pepCoding/Patterns.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/Patterns.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/pepCoding/PrintDecreasing.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/PrintDecreasing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/pepCoding/PrintIncreasing.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/PrintIncreasing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix/pepCoding/PrintIncreasingDecreasing.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/PrintIncreasingDecreasing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +90,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Uf91EGFD2zI1iAjW0W0IyTb0iG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
