@@ -1,58 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mix/pepcoding/Ronn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mix/practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mix/ArrayList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/ArrayLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTreeYT$BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTreeYT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTreeYT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTreeYT.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/BinaryTreeYT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTreesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/BinaryTreesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Collections.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Community.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Community.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Community.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dontrepeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dontrepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Dontrepeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Hashing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JustTestIt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LL$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/ClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkL.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/LinkL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedL.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/LinkedL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mix/LinkedList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecurssionPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/RecurssionPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveDuplicateInArrayExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/RemoveDuplicateInArrayExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/ReverseInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Sorting.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/StrBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mix/Tree.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam'/LL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam'/tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mix/functions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/Leetcode/ClimbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/Leetcode/ClimbingStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/Leetcode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/Leetcode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pepCoding/Patterns.rtf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,37 +22,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2VOfj8I3Zm3GRp255101lETOv0z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/batmac/Code/practice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/batmac/Code/practice&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CostOfRope">
-    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mix.ArrayLists" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Intro">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mix.Leetcode.ClimbingStairs" />
       <module name="practice" />
@@ -119,6 +62,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="mix.Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prepDay.ArrayList.Intro" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prepDay.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Intro" />
         <item itemvalue="Application.CostOfRope" />
         <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.PatternQuestion" />
         <item itemvalue="Application.Ronn" />
-        <item itemvalue="Application.ArrayLists" />
       </list>
     </recent_temporary>
   </component>
