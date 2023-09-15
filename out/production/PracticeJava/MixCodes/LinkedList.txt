@@ -1,0 +1,6 @@
+Types of Linked List
+
+Singular Linked List
+Double Linked List
+Circular Linked List
+
