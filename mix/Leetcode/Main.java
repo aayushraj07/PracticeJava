@@ -1,7 +1,5 @@
-package Leetcode;
+package mix.Leetcode;
 
-
-import java.util.ArrayList;
 
 public class Main {
 

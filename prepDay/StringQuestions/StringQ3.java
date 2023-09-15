@@ -6,7 +6,7 @@ import java.util.Scanner;
 //Change the Letter Case
 public class StringQ3 {
 
-//    pepCoding
+//    mix.pepCoding
 //    PEPcODING
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

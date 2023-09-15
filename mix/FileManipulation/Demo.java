@@ -1,6 +1,6 @@
-package FileManipulation;
+package mix.FileManipulation;
 
-import FileManipulation.neww.A;
+import mix.FileManipulation.neww.A;
 
 public class Demo {
 

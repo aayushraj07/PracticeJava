@@ -1,4 +1,4 @@
-package Leetcode;
+package mix.Leetcode;
 
 public class Palindrome {
 

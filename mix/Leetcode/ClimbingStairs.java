@@ -1,7 +1,11 @@
-package Leetcode;
+package mix.Leetcode;
 
 public class ClimbingStairs {
-    public int climbStairs(int n) {
+
+    public static void main(String[] args) {
+        climbStairs(3);
+    }
+    public static int climbStairs(int n) {
 
         if(n==1){
             return n;

@@ -1,0 +1,26 @@
+List Interface has 3 classes :
+    -ArrayList
+    -LinkedList
+    -Vector ->Stack  
+
+
+Queue Interface (FIFO)
+    -PriorityQueue
+    -LinkedList
+    -Deque -> ArrayDeque
+
+
+Set Interface
+    -HashSet
+    -LinkedHashSet
+    -SortedSet -> TreeSet
+
+Map Interface
+    -HashMap
+    -LinkedHashMap
+    -SortedMap ->TreeMap
+    -HashTable
+
+
+Tree and Graph are implemented using these interfaces 
+they are not given directly in Java

@@ -1,6 +1,5 @@
-package Leetcode;
+package mix.Leetcode;
 
-import java.io.*;
 class fibonacci {
 
     private static long[] fibbonacciCache;

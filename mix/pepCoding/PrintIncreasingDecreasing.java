@@ -1,4 +1,4 @@
-package pepCoding;
+package mix.pepCoding;
 
 import java.util.Scanner;
 

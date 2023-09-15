@@ -1,4 +1,4 @@
-package FileManipulation.neww;
+package mix.FileManipulation.neww;
 
 public class A {
 
