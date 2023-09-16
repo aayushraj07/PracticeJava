@@ -3,6 +3,11 @@ package Scaler.Arrays;
 import java.util.Arrays;
 
 public class ThreeSum {
+
+//    Two pointer takes O(n)
+//    and for loop is taking O(n)
+//    Time complexity O(n^2)
+//    Space complexity O(1)
     public static void main(String[] args) {
         int[] arr = {7, -6, 3, 8, -1, 8, -1};
         int target = 0;

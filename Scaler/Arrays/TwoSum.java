@@ -5,6 +5,8 @@ import java.util.Set;
 
 public class TwoSum {
 
+//    Time complexity O(n)
+//    Space complexity O(n)
 
     public static void main(String[] args) {
         int[] arr = {11,3,7,9,14,2};
