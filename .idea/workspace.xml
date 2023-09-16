@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scaler/Arrays/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Arrays/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scaler/Arrays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Arrays/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/mix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler/Arrays/Majority.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Arrays/Majority.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +139,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Scaler/Arrays/Majority.java</url>
-          <line>12</line>
+          <line>45</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
