@@ -7,6 +7,7 @@
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scaler/Arrays/Majority.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Arrays/Majority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/Majority.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/Majority.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,8 +140,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Scaler/Arrays/Majority.java</url>
-          <line>45</line>
+          <line>46</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Scaler/Arrays/Majority.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

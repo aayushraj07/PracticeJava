@@ -6,8 +6,9 @@ import java.util.Scanner;
 public class Majority {
     public static void main(String[] args) {
         int[] arr = {2,2,2,2,2,5,1,1,2,2,2,6,5,6,1,1,2,2,2};
+        int[] arr2 = {6,5,5};
 //        marjoirty(arr,arr.length);
-        mooreVoting(arr,arr.length);
+        mooreVoting(arr2,arr2.length);
 //        TC -> O(n)
 //        SC -> O(1)
     }
@@ -15,7 +16,7 @@ public class Majority {
 
     private static void mooreVoting(int[] arr, int length) {
         int pc = arr[0];
-        int count = 0;
+        int count = 1;
         int frequency = 0;
         for(int i=1; i<length; i++){
             if(arr[i] == pc){
@@ -23,7 +24,7 @@ public class Majority {
             }else {
                 count --;
             }
-            if(count < 0){
+            if(count == 0){
                 pc = arr[i];
                 count  =1;
             }
