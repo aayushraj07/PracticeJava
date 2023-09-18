@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scaler/Arrays/Majority.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Arrays/Majority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler/Arrays/RotateMatrixNinty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Arrays/RotateMatrixNinty.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Majority">
-    <configuration name="CostOfRope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mix.Leetcode.CostOfRope" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mix.Leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RotateMatrixNinty">
     <configuration name="Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prepDay.ArrayList.Intro" />
       <module name="practice" />
@@ -76,6 +63,19 @@
     </configuration>
     <configuration name="Majority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scaler.Arrays.Majority" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Scaler.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrixNinty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.Arrays.RotateMatrixNinty" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateMatrixNinty" />
         <item itemvalue="Application.Majority" />
         <item itemvalue="Application.SmallestNumber" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.Intro" />
-        <item itemvalue="Application.CostOfRope" />
       </list>
     </recent_temporary>
   </component>
@@ -139,8 +139,18 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Scaler/Arrays/Majority.java</url>
-          <line>32</line>
+          <line>46</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Scaler/Arrays/Majority.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Scaler/Arrays/Majority.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
