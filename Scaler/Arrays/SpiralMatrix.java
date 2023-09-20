@@ -9,7 +9,6 @@ public class SpiralMatrix {
         printSpiral(arr);
 
     }
-
     private static void printSpiral(int[][] arr) {
         int cmin = 0, rmin = 0;
         int cmax = arr[0].length - 1;
@@ -20,29 +19,29 @@ public class SpiralMatrix {
         int count = 0;
         while (count < n * m) {
 //        print top Boundary
-            for (int col = cmin; cmin <= cmax && count < n*m; col++) {
-                System.out.println(arr[rmin][col] + " ");
+            for (int col = cmin; col <= cmax && count < n*m; col++) {
+                System.out.print(arr[rmin][col] + " ");
                 count++;
             }
             rmin++;
 
 //        print right Boundary
-            for (int row = rmin; rmin <= rmax && count < n*m; row++) {
-                System.out.println(arr[row][cmax] + " ");
+            for (int row = rmin; row <= rmax && count < n*m; row++) {
+                System.out.print(arr[row][cmax] + " ");
                 count++;
             }
             cmax--;
 
 //        print bottom Boundary
-            for (int col = cmax; cmax >= cmin && count < n*m; col--) {
-                System.out.println(arr[rmax][col] + " ");
+            for (int col = cmax; col >= cmin && count < n*m; col--) {
+                System.out.print(arr[rmax][col] + " ");
                 count++;
             }
             rmax--;
 
 //        print left Boundary
             for (int row = rmax; row >= rmin && count < n*m; row--) {
-                System.out.println(arr[row][cmax] + " ");
+                System.out.print(arr[row][cmin] + " ");
                 count++;
             }
             cmin++;
