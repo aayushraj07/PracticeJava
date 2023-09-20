@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scaler/Arrays/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Arrays/SpiralMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Arrays/SpiralMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler/BinarySearch/BinarySearchPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/BinarySearch/BinarySearchPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/BinarySearch/BinarySearchPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/BinarySearch/BinarySearchPractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;removeIdea&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Code/PracticeJava&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Code/PracticeJava",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.BinarySearchPractice">
+}]]></component>
+  <component name="RunManager" selected="Application.FirstLastIndex">
     <configuration name="BinarySearchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scaler.BinarySearch.BinarySearchPractice" />
       <module name="PracticeJava" />
@@ -63,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Majority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.Arrays.Majority" />
+    <configuration name="FirstLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.BinarySearch.FirstLastIndex" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.Arrays.*" />
+          <option name="PATTERN" value="Scaler.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstLastIndex" />
         <item itemvalue="Application.BinarySearchPractice" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.TestMAin" />
         <item itemvalue="Application.RotateMatrixNinty" />
-        <item itemvalue="Application.Majority" />
       </list>
     </recent_temporary>
   </component>

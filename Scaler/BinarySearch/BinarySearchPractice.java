@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class BinarySearchPractice {
     public static void main(String[] args) {
         int[] arr = {1,3,4,6,2,3,4,5,6,7,8,9};
-        int target = 2;
+        int target = 9;
         binarySearchAlgo(arr, target);
 
 
