@@ -7,7 +7,7 @@
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/BinarySearch/FirstLastIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/BinarySearch/FirstLastIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Recursion/PrintPermuatation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Recursion/PrintPermuatation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +48,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintPermuatation">
-    <configuration name="FirstLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.BinarySearch.FirstLastIndex" />
-      <module name="PracticeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Scaler.BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintPermuatation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.PrintPermuatation" />
+  <component name="RunManager" selected="Application.PrintArrayRecursion">
+    <configuration name="LogRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.LogRecursion" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
@@ -75,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.BinarySearch.Ques" />
+    <configuration name="PrintArrayRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.PrintArrayRecursion" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.BinarySearch.*" />
+          <option name="PATTERN" value="Scaler.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.Arrays.Rotate" />
+    <configuration name="PrintIncrease" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.PrintIncrease" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.Arrays.*" />
+          <option name="PATTERN" value="Scaler.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedRoatated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.BinarySearch.SortedRoatated" />
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.TowerOfHanoi" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.BinarySearch.*" />
+          <option name="PATTERN" value="Scaler.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.ZigZag" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Scaler.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintPermuatation" />
-        <item itemvalue="Application.Ques" />
-        <item itemvalue="Application.SortedRoatated" />
-        <item itemvalue="Application.Rotate" />
-        <item itemvalue="Application.FirstLastIndex" />
+        <item itemvalue="Application.PrintArrayRecursion" />
+        <item itemvalue="Application.TowerOfHanoi" />
+        <item itemvalue="Application.ZigZag" />
+        <item itemvalue="Application.LogRecursion" />
+        <item itemvalue="Application.PrintIncrease" />
       </list>
     </recent_temporary>
   </component>
