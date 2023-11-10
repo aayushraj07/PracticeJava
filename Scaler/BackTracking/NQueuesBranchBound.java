@@ -1,6 +1,6 @@
 package Scaler.BackTracking;
 
-public class NQueues {
+public class NQueuesBranchBound {
 
     public static void main(String[] args) {
         int n = 4;

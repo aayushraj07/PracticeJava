@@ -6,11 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scaler/Recursion/PrintIncrease.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Recursion/PrintIncrease.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scaler/Recursion/TargetSumSubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/Recursion/TargetSumSubSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler/BackTracking/NQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scaler/BackTracking/NQueuesBranchBound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newTest/TestMAin.java" beforeDir="false" afterPath="$PROJECT_DIR$/newTest/TestMAin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Recursion/PrintIncrease.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Recursion/PrintIncrease.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/Recursion/TargetSumSubSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Scaler/BackTracking/NQueues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/newTest/TestMAin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/newTest/TestMAin.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FloodHill">
-    <configuration name="FloodHill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.BackTracking.FloodHill" />
+  <component name="RunManager" selected="Application.PartitionArray">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.SpaceTimeComplexity.InsertionSort" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.BackTracking.*" />
+          <option name="PATTERN" value="Scaler.SpaceTimeComplexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JosephusProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.BackTracking.JosephusProblem" />
+    <configuration name="MergeSortedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.SpaceTimeComplexity.MergeSortedArr" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.BackTracking.*" />
+          <option name="PATTERN" value="Scaler.SpaceTimeComplexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyPad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.KeyPad" />
+    <configuration name="MergeUnSortedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.SpaceTimeComplexity.MergeUnSortedArr" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.Recursion.*" />
+          <option name="PATTERN" value="Scaler.SpaceTimeComplexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.BackTracking.NQueues" />
+    <configuration name="PartitionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.SpaceTimeComplexity.PartitionArray" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.BackTracking.*" />
+          <option name="PATTERN" value="Scaler.SpaceTimeComplexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsquence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scaler.Recursion.Subsquence" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scaler.SpaceTimeComplexity.SelectionSort" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Scaler.Recursion.*" />
+          <option name="PATTERN" value="Scaler.SpaceTimeComplexity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FloodHill" />
-        <item itemvalue="Application.JosephusProblem" />
-        <item itemvalue="Application.KeyPad" />
-        <item itemvalue="Application.NQueues" />
-        <item itemvalue="Application.Subsquence" />
+        <item itemvalue="Application.PartitionArray" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.MergeUnSortedArr" />
+        <item itemvalue="Application.MergeSortedArr" />
+        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +165,16 @@
           <url>file://$PROJECT_DIR$/Scaler/Recursion/Subsquence.java</url>
           <line>19</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Scaler/DP/goldMine.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Scaler/SpaceTimeComplexity/PartitionArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
