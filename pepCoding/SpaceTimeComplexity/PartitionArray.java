@@ -22,11 +22,16 @@ public class PartitionArray {
                 j++;
             }
         }
+        printArr(arr);
+    }
 
-        for (int element : arr) {
-            System.out.print(element + " ");
+    public static void printArr(int[] arr)
+    {
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
         }
     }
+
     public static void swap(int[] arr,int i, int j){
         int temp = arr[i];
         arr[i] = arr[j];
