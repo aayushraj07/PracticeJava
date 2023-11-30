@@ -5,10 +5,7 @@ import java.util.Stack;
 public class Histogram {
     public static void main(String[] args) {
         int[] barChartHeight = {1,1};
-
         System.out.println(calculateArea(barChartHeight));
-
-
     }
 
     private static int calculateArea(int[] arr) {

@@ -6,24 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/ClimbingStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/ContainsDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/CostOfRope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/MedianTwoSortedArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/PlusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/Prefixes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/RomanToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/TwoSortedLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/ValidBrackets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/mix/Leetcode/fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/SpaceTimeComplexity/PartitionArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/SpaceTimeComplexity/PartitionArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/testing/TestMAin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/testing/TestMAin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pepCoding/SpaceTimeComplexity/PartitionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/SpaceTimeComplexity/PartitionArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/TestMAin.java" beforeDir="false" afterPath="$PROJECT_DIR$/testing/TestMAin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/StacksAndQueue/NGE/Histogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/StacksAndQueue/NGE/Histogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/StacksAndQueue/NGE/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/StacksAndQueue/NGE/Histogram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Histogram">
-    <configuration name="Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.StacksAndQueue.NGE.Histogram" />
+  <component name="RunManager" selected="Application.TestMAin">
+    <configuration name="MethodOverriding2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.MethodOverriding2" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.StacksAndQueue.NGE.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGraterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.StacksAndQueue.NGE.NextGraterElement" />
+    <configuration name="Ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.Ques2" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.StacksAndQueue.NGE.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveOuterBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.StacksAndQueue.RemoveOuterBracket" />
+    <configuration name="TestMAin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing.TestMAin" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.StacksAndQueue.NGE.*" />
+          <option name="PATTERN" value="testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlidingWindowMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.StacksAndQueue.NGE.SlidingWindowMax" />
+    <configuration name="TryCatchQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.TryCatchQ" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.StacksAndQueue.NGE.*" />
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockSpan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.StacksAndQueue.NGE.StockSpan" />
+    <configuration name="TryCatchQ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.TryCatchQ2" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.StacksAndQueue.NGE.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Histogram" />
-        <item itemvalue="Application.SlidingWindowMax" />
-        <item itemvalue="Application.NextGraterElement" />
-        <item itemvalue="Application.StockSpan" />
-        <item itemvalue="Application.RemoveOuterBracket" />
+        <item itemvalue="Application.TestMAin" />
+        <item itemvalue="Application.TryCatchQ2" />
+        <item itemvalue="Application.TryCatchQ" />
+        <item itemvalue="Application.MethodOverriding2" />
+        <item itemvalue="Application.Ques2" />
       </list>
     </recent_temporary>
   </component>
@@ -205,9 +192,9 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/pepCoding/StacksAndQueue/NGE/Histogram.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="30" />
+          <url>file://$PROJECT_DIR$/Leetcode/IntegerReplacement.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
