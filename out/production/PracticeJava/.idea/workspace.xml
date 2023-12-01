@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/StacksAndQueue/NGE/Histogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/StacksAndQueue/NGE/Histogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pepCoding/StacksAndQueue/NGE/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/StacksAndQueue/NGE/Histogram.java" afterDir="false" />
-    </list>
+    <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestMAin">
-    <configuration name="MethodOverriding2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.MethodOverriding2" />
+  <component name="RunManager" selected="Application.CheckTwoStringArr">
+    <configuration name="CheckTwoStringArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.CheckTwoStringArr" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.Ques2" />
+    <configuration name="Majority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.Arrays.Majority" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="pepCoding.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckTwoStringArr" />
+        <item itemvalue="Application.Majority" />
         <item itemvalue="Application.TestMAin" />
         <item itemvalue="Application.TryCatchQ2" />
         <item itemvalue="Application.TryCatchQ" />
-        <item itemvalue="Application.MethodOverriding2" />
-        <item itemvalue="Application.Ques2" />
       </list>
     </recent_temporary>
   </component>
