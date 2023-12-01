@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/StacksAndQueue/NGE/Histogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/StacksAndQueue/NGE/Histogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pepCoding/StacksAndQueue/NGE/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/StacksAndQueue/NGE/Histogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/TestMAin.java" beforeDir="false" afterPath="$PROJECT_DIR$/testing/TestMAin.java" afterDir="false" />
-    </list>
+    <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
