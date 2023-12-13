@@ -10,10 +10,12 @@ public class RotateMatrixNinty {
 //            Space complexity O(1)
 
             rotateBy90(arr);
-            print(arr);
+        RotateMatrixNinty rotateMatrixNinty = new RotateMatrixNinty();
+        rotateMatrixNinty.print(arr);
+//            print(arr);
     }
 
-    private static void print(int[][] arr) {
+    private void print(int[][] arr) {
         for(int[] a: arr){
             for (int val: a){
                 System.out.print(val + " ");
