@@ -7,10 +7,8 @@
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/Arrays/RotateMatrixNinty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/pepCoding/Arrays/RotateMatrixNinty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/testing/TestMAin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/testing/TestMAin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pepCoding/Arrays/RotateMatrixNinty.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/Arrays/RotateMatrixNinty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/TestMAin.java" beforeDir="false" afterPath="$PROJECT_DIR$/testing/TestMAin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/TestConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/testing/TestConstruct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/TestMAin.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/testing/TestMAin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +46,21 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QueueIntro">
-    <configuration name="AList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.AList" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pepCoding/LinkedList/questions/WithMain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RemoveDuplicateSortedLL">
+    <configuration name="KthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.KthFromEnd" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CelebrityProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.StacksAndQueue.CelebrityProblem" />
+    <configuration name="MergeSortLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeSortLL" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.StacksAndQueue.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsQues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.GenericsQues" />
+    <configuration name="MergeTwoSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeTwoSortedLL" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.StacksAndQueue.Queue.QueueIntro" />
+    <configuration name="MiddleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MiddleNode" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.StacksAndQueue.Queue.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestConstruct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing.TestConstruct" />
+    <configuration name="RemoveDuplicateSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.WithMain.RemoveDuplicateSortedLL" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QueueIntro" />
-        <item itemvalue="Application.TestConstruct" />
-        <item itemvalue="Application.CelebrityProblem" />
-        <item itemvalue="Application.GenericsQues" />
-        <item itemvalue="Application.AList" />
+        <item itemvalue="Application.RemoveDuplicateSortedLL" />
+        <item itemvalue="Application.MergeSortLL" />
+        <item itemvalue="Application.KthFromEnd" />
+        <item itemvalue="Application.MergeTwoSortedLL" />
+        <item itemvalue="Application.MiddleNode" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +203,21 @@
           <url>file://$PROJECT_DIR$/mix/basic/AList.java</url>
           <line>30</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pepCoding/LinkedList/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pepCoding/LinkedList/questions/RotateLL.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pepCoding/LinkedList/questions/RotateLL.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
