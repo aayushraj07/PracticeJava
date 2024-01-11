@@ -1,4 +1,4 @@
-package pepCoding.LinkedList.questions.WithMain;
+package pepCoding.LinkedList.questions;
 
 public class Main {
 

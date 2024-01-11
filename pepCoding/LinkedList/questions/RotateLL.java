@@ -5,26 +5,18 @@ import java.util.LinkedList;
 
 public class RotateLL {
 
-private static class ListNode {
-     int val;
-      ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-  }
-
     public static void main(String[] args) {
-        ListNode head3 = new ListNode(4,null);
-        ListNode head2 = new ListNode(3,head3);
-        ListNode head1 = new ListNode(2,head2);
-        ListNode head = new ListNode(1,head1);
+        Main.ListNode head3 = new Main.ListNode(4,null);
+        Main.ListNode head2 = new Main.ListNode(3,head3);
+        Main.ListNode head1 = new Main.ListNode(2,head2);
+        Main.ListNode head = new Main.ListNode(1,head1);
         System.out.println(rotateRight(head,1));
     }
 
-    private static ListNode rotateRight(ListNode head, int k) {
+    private static Main.ListNode rotateRight(Main.ListNode head, int k) {
 
         int size = 0;
-        ListNode temp = head;
+        Main.ListNode temp = head;
         while(temp != null){
             temp = temp.next;
             size++;
@@ -34,10 +26,10 @@ private static class ListNode {
             temp = temp.next;
         }
 
-        ListNode new1 = temp.next;
+        Main.ListNode new1 = temp.next;
         temp.next = null;
 
-        ListNode temp1 = new1;
+        Main.ListNode temp1 = new1;
         while(temp1.next != null){
             temp1 = temp1.next;
         }

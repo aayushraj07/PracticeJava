@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29729085-2419-45f2-b3c0-cfdd29c38150" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pepCoding/LinkedList/questions/OddEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticeJava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/TestConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/testing/TestConstruct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing/TestMAin.java" beforeDir="false" afterPath="$PROJECT_DIR$/mix/testing/TestMAin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/LinkedList/LL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/LinkedList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/LinkedList/RemoveAtIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/LinkedList/questions/KReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/LinkedList/questions/KReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/LinkedList/questions/WithMain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/LinkedList/questions/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/LinkedList/questions/WithMain/OddEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pepCoding/LinkedList/questions/WithMain/RemoveDuplicateSortedLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/pepCoding/LinkedList/questions/RemoveDuplicateSortedLL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,39 +60,13 @@
       <recent name="$PROJECT_DIR$/pepCoding/LinkedList/questions/WithMain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicateSortedLL">
-    <configuration name="KthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.KthFromEnd" />
-      <module name="PracticeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pepCoding.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSortLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeSortLL" />
-      <module name="PracticeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RotateLL">
     <configuration name="MergeTwoSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeTwoSortedLL" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +79,20 @@
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.OddEven" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +101,24 @@
       </method>
     </configuration>
     <configuration name="RemoveDuplicateSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.WithMain.RemoveDuplicateSortedLL" />
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.RemoveDuplicateSortedLL" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepCoding.LinkedList.questions.WithMain.*" />
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.RotateLL" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pepCoding.LinkedList.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicateSortedLL" />
-        <item itemvalue="Application.MergeSortLL" />
-        <item itemvalue="Application.KthFromEnd" />
+        <item itemvalue="Application.RotateLL" />
         <item itemvalue="Application.MergeTwoSortedLL" />
         <item itemvalue="Application.MiddleNode" />
+        <item itemvalue="Application.OddEven" />
+        <item itemvalue="Application.RemoveDuplicateSortedLL" />
       </list>
     </recent_temporary>
   </component>
@@ -205,19 +211,9 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/pepCoding/LinkedList/Main.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/pepCoding/LinkedList/questions/RotateLL.java</url>
           <line>39</line>
           <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/pepCoding/LinkedList/questions/RotateLL.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

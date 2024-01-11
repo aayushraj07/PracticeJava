@@ -1,5 +1,7 @@
-package pepCoding.LinkedList.questions.WithMain;
-import static pepCoding.LinkedList.questions.WithMain.Main.display;
+package pepCoding.LinkedList.questions;
+import pepCoding.LinkedList.questions.Main;
+
+import static pepCoding.LinkedList.questions.Main.display;
 
 public class RemoveDuplicateSortedLL {
 
