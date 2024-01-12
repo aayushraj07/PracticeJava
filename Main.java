@@ -5,3 +5,20 @@ public class Main {
         System.out.println("Hey!");
     }
 }
+
+class People {
+    int age;
+    String nation;
+}
+
+class Student {
+    int rno;
+    String name;
+    int marks = 424;
+
+    // Student(){
+    // this.rno=3;
+    // this.name="Arush";
+    // this.marks=424;
+    // }
+}
