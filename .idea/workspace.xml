@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/pepCoding/LinkedList/questions/WithMain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotateLL">
+  <component name="RunManager" selected="Application.OddEven">
     <configuration name="MergeTwoSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeTwoSortedLL" />
       <module name="PracticeJava" />
@@ -128,10 +128,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.RotateLL" />
         <item itemvalue="Application.MergeTwoSortedLL" />
         <item itemvalue="Application.MiddleNode" />
-        <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.RemoveDuplicateSortedLL" />
       </list>
     </recent_temporary>
