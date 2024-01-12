@@ -60,9 +60,9 @@
       <recent name="$PROJECT_DIR$/pepCoding/LinkedList/questions/WithMain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OddEven">
-    <configuration name="MergeTwoSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeTwoSortedLL" />
+  <component name="RunManager" selected="Application.RemoveDuplicateSortedLL">
+    <configuration name="MergeSortLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeSortLL" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MiddleNode" />
+    <configuration name="MergeTwoSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepCoding.LinkedList.questions.MergeTwoSortedLL" />
       <module name="PracticeJava" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicateSortedLL" />
+        <item itemvalue="Application.MergeSortLL" />
         <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.RotateLL" />
         <item itemvalue="Application.MergeTwoSortedLL" />
-        <item itemvalue="Application.MiddleNode" />
-        <item itemvalue="Application.RemoveDuplicateSortedLL" />
       </list>
     </recent_temporary>
   </component>
